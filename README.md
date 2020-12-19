@@ -2,6 +2,8 @@
     <img src=".github/Logo_main_black.png", width="300">
 </div>
 
+pkg-config --cflags python . and add that flag to CMAKE_CXX_FLAGS
+
 -----------------
 
 |                  |`Default Config`  |`CUDA (+Python)`  |`CPU (+Python)`   |`OpenCL (+Python)`| `Debug`          | `Unity`          |
